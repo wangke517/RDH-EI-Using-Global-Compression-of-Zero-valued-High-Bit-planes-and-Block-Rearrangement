@@ -2,7 +2,7 @@
 
 This code is the implementation of the paper "Reversible Data Hiding in Encrypted Images Using Global Compression of Zero-valued High Bit-planes and Block Rearrangement".
 
-[Paper Link]()
+[Paper Link](https://ieeexplore.ieee.org/document/10250957)
 
 ## Abstract
 
@@ -11,5 +11,13 @@ Recently, reversible data hiding in encrypted images (RDHEI) has received widesp
 
 
 ## How to cite our paper
-
+@ARTICLE{10250957,
+  author={Yao, Ye and Wang, Ke and Chang, Qi and Weng, Shaowei},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Reversible Data Hiding in Encrypted Images Using Global Compression of Zero-valued High Bit-planes and Block Rearrangement}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TMM.2023.3314975}}
     
